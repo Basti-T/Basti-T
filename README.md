@@ -32,7 +32,7 @@ My hands-on experience and professional certifications reflect my dedication to 
 * **Microsoft Certified: Power BI Data Analyst Associate (PL-300):** ID: 788ECA7F975896F8 Number: 461U5C-D943CA
 ---
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32947173-ae59-44cb-a082-f3dcbd9d03fc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Cloud Practitioner Badge](https://images.credly.com/images/32947173-ae59-44cb-a082-f3dcbd9d03fc.png)](https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url)
 
 ## 🌱 What I'm Currently Building & Exploring
 
