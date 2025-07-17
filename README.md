@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data and machine l
 
 My hands-on experience and professional certifications reflect my dedication to building robust and scalable AI/ML solutions.
 
-### **Key Skills:**
-
 ---
 
 ## 🧰 Technologies & Tools
