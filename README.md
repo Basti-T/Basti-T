@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I'm passionate about leveraging data and machine learning to solve real-world problems. My unique journey, transitioning from operations leadership, has equipped me with a practical, results-driven mindset invaluable in the AI/ML space. I thrive on "decoding" complex technical concepts and turning them into accessible knowledge and practical applications.
 
----
 
 ## 🛠️ My Toolbox & Certifications
 
@@ -90,7 +89,6 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 </div>
 
----
 
 ## 🌱 What I'm Currently Building & Exploring
 
@@ -100,7 +98,6 @@ My focus is on creating practical, end-to-end ML solutions and sharing my learni
 * **MLOps Best Practices:** Deepening my expertise in operationalizing machine learning models for scalable and reliable production environments.
 * **Advanced NLP & Generative AI:** Actively experimenting with cutting-edge models and techniques in Natural Language Processing.
 
----
 
 ## 📚 My YouTube Channel: Knowledge Decoded!
 
@@ -115,16 +112,16 @@ I believe in democratizing knowledge. My YouTube channel serves as a platform to
 
 ## 📺 My YouTube Playlists
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center; padding: 20px 0;">
 
-  <!-- Playlist 1 -->
+  <!-- Playlist 1 (with second playlist's thumbnail) -->
   <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPLGBfXwSCYaC3_6ItI6D-iW" target="_blank" title="Playlist 1">
-    <img src="https://i.ytimg.com/vi/wxz3-U_ILWE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCERAPwJ8tyBZwbSazHa4PxaQek4Q" alt="Playlist 1 Thumbnail" width="220" style="border-radius:8px;" />
+    <img src="https://i.ytimg.com/vi/Vp9-8fDPzJw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoIj0iIEuC0jL0Tpn8h1ebIGZJlA" alt="Playlist 1 Thumbnail" width="220" style="border-radius:8px;" />
   </a>
 
-  <!-- Playlist 2 -->
+  <!-- Playlist 2 (with first playlist's thumbnail) -->
   <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPL6zwRl-xP3qY94lw0zKhy7" target="_blank" title="Playlist 2">
-    <img src="https://i.ytimg.com/vi/Vp9-8fDPzJw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoIj0iIEuC0jL0Tpn8h1ebIGZJlA" alt="Playlist 2 Thumbnail" width="220" style="border-radius:8px;" />
+    <img src="https://i.ytimg.com/vi/wxz3-U_ILWE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCERAPwJ8tyBZwbSazHa4PxaQek4Q" alt="Playlist 2 Thumbnail" width="220" style="border-radius:8px;" />
   </a>
 
   <!-- Playlist 3 -->
@@ -132,7 +129,15 @@ I believe in democratizing knowledge. My YouTube channel serves as a platform to
     <img src="https://i.ytimg.com/vi/_RmcTQoyc9g/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEL5vwXbnaYqm0UfN-LMAU5qu04Q" alt="Playlist 3 Thumbnail" width="220" style="border-radius:8px;" />
   </a>
 
+  <!-- Playlist 4 -->
+  <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPK_t789fHS5TvnvJyjMZ6eB" target="_blank" title="Playlist 4">
+    <img src="https://i.ytimg.com/vi/8qEHHTcNWLE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5npM1fsvvKPsDGo1GrgbY6FYTEA" alt="Playlist 4 Thumbnail" width="220" style="border-radius:8px;" />
+  </a>
+
+  <!-- Playlist 5 -->
+  <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPL_07hoRfDLPvOwRPCDMrwe" target="_blank" title="Playlist 5">
+    <img src="https://i.ytimg.com/vi/Fn2WdY-Z_Ok/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMu_Zc-HhCGTOAb2QG1wiEe6kifg" alt="Playlist 5 Thumbnail" width="220" style="border-radius:8px;" />
+  </a>
+
 </div>
 
-
----
