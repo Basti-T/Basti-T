@@ -31,7 +31,7 @@ My hands-on experience and professional certifications reflect my dedication to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
 
   <!-- Power BI logo via Simple Icons CDN -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftpowerbi.svg" alt="Power BI" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="Power BI" width="50" height="50"/>
 
 </div>
 
