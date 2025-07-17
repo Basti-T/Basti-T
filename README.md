@@ -87,18 +87,21 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 ### Microsoft Certification
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
 
-<a href="https://www.credly.com/badges/788ECA7F975896F8/public_url" title="Microsoft Certified: Power BI Data Analyst Associate (PL-300)" target="_blank">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" />
-</a>
+  <a href="https://learn.microsoft.com/en-us/users/bastithurm-3140/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank" title="Microsoft Certified: Power BI Data Analyst Associate (PL‑300)">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" style="display: block; margin: 0 auto;"/>
+  </a>
+
+  <p align="center" style="font-weight: bold; font-size: 16px; margin: 8px 0 4px 0;">
+    Microsoft Certified: Power BI Data Analyst Associate (PL‑300)
+  </p>
+
+  <p align="center" style="font-size: 14px; color: #666;">
+    Badge ID: <code>788ECA7F975896F8</code> • Number: <code>461U5C‑D943CA</code>
+  </p>
 
 </div>
-
-[![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/340x340/images/788ECA7F-9758-96F8-461U5C-D943CA.png)](https://www.credly.com/badges/788ECA7F975896F8/public_url)  
-**Microsoft Certified: Power BI Data Analyst Associate (PL‑300)**  
-Badge ID: `788ECA7F975896F8` • Number: `461U5C‑D943CA`
-
 ---
 
 ## 🌱 What I'm Currently Building & Exploring
