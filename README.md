@@ -113,4 +113,26 @@ I believe in democratizing knowledge. My YouTube channel serves as a platform to
 
 🔗 **Visit my channel here:** (https://www.youtube.com/@ai_ml_and_data_decoded)
 
+## 📺 My YouTube Playlists
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Playlist 1 -->
+  <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPLGBfXwSCYaC3_6ItI6D-iW" target="_blank" title="Playlist 1">
+    <img src="https://img.youtube.com/vi/QRpQ4JmP_qc/hqdefault.jpg" alt="Playlist 1 Thumbnail" width="220" style="border-radius:8px;" />
+  </a>
+
+  <!-- Playlist 2 -->
+  <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPL6zwRl-xP3qY94lw0zKhy7" target="_blank" title="Playlist 2">
+    <img src="https://img.youtube.com/vi/QRpQ4JmP_qc/hqdefault.jpg" alt="Playlist 2 Thumbnail" width="220" style="border-radius:8px;" />
+  </a>
+
+  <!-- Playlist 3 -->
+  <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPLYWhvMwubEblofIs8pzI0p" target="_blank" title="Playlist 3">
+    <img src="https://img.youtube.com/vi/QRpQ4JmP_qc/hqdefault.jpg" alt="Playlist 3 Thumbnail" width="220" style="border-radius:8px;" />
+  </a>
+
+</div>
+
+
 ---
