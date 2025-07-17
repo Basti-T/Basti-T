@@ -84,13 +84,9 @@ My hands-on experience and professional certifications reflect my dedication to 
   </a>
 
   <!-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) -->
-  <div style="text-align: center; max-width: 150px;">
-    <a href="https://learn.microsoft.com/en-us/users/bastithurm-3140/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank" title="Microsoft Certified: Power BI Data Analyst Associate (PL‑300)">
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" style="display: block; margin: 0 auto;" />
-    </a>
-    <p style="font-weight: bold; font-size: 14px; margin: 6px 0 2px;">Microsoft Certified: Power BI Data Analyst Associate (PL‑300)</p>
-    <p style="font-size: 12px; color: #666; margin: 0;">Badge ID: <code>788ECA7F975896F8</code> • Number: <code>461U5C‑D943CA</code></p>
-  </div>
+  <a href="https://learn.microsoft.com/en-us/users/bastithurm-3140/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank" title="Microsoft Certified: Power BI Data Analyst Associate (PL‑300)">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" />
+  </a>
 
 </div>
 
