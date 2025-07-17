@@ -87,6 +87,14 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 ### Microsoft Certification
 
+<div align="center">
+
+<a href="https://www.credly.com/badges/788ECA7F975896F8/public_url" title="Microsoft Certified: Power BI Data Analyst Associate (PL-300)" target="_blank">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" />
+</a>
+
+</div>
+
 [![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/340x340/images/788ECA7F-9758-96F8-461U5C-D943CA.png)](https://www.credly.com/badges/788ECA7F975896F8/public_url)  
 **Microsoft Certified: Power BI Data Analyst Associate (PL‑300)**  
 Badge ID: `788ECA7F975896F8` • Number: `461U5C‑D943CA`
