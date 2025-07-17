@@ -54,54 +54,46 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 </div>
 
-
 ## 📜 Certifications
 
-### AWS Certifications
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 15px 0;">
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url" title="AWS Certified Machine Learning – Associate" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Machine Learning – Associate" />
-</a>
-
-<a href="https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url" title="AWS Certified AI Practitioner" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI Practitioner" />
-</a>
-
-<a href="https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" />
-</a>
-
-<a href="https://www.credly.com/badges/your-url-for-ai-practitioner-early-adopter" title="AWS Certified AI Practitioner Early Adopter" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AI Practitioner Early Adopter" />
-</a>
-
-<a href="https://www.credly.com/badges/your-url-for-ml-engineer-early-adopter" title="AWS Certified Machine Learning Engineer – Associate Early Adopter" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" alt="ML Engineer Early Adopter" />
-</a>
-
-</div>
-
----
-
-### Microsoft Certification
-
-<div align="center" style="margin-bottom: 20px;">
-
-  <a href="https://learn.microsoft.com/en-us/users/bastithurm-3140/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank" title="Microsoft Certified: Power BI Data Analyst Associate (PL‑300)">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" style="display: block; margin: 0 auto;"/>
+  <!-- AWS Certified Machine Learning – Associate -->
+  <a href="https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url" title="AWS Certified Machine Learning – Associate" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Machine Learning – Associate" />
   </a>
 
-  <p align="center" style="font-weight: bold; font-size: 16px; margin: 8px 0 4px 0;">
-    Microsoft Certified: Power BI Data Analyst Associate (PL‑300)
-  </p>
+  <!-- AWS Certified AI Practitioner -->
+  <a href="https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url" title="AWS Certified AI Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI Practitioner" />
+  </a>
 
-  <p align="center" style="font-size: 14px; color: #666;">
-    Badge ID: <code>788ECA7F975896F8</code> • Number: <code>461U5C‑D943CA</code>
-  </p>
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" />
+  </a>
+
+  <!-- AWS Certified AI Practitioner Early Adopter -->
+  <a href="https://www.credly.com/badges/5dcb5520-a6fc-48f8-a1ca-248e0f1995bf/public_url" title="AWS Certified AI Practitioner Early Adopter" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS AI Practitioner Early Adopter" />
+  </a>
+
+  <!-- AWS Certified Machine Learning Engineer – Associate Early Adopter -->
+  <a href="https://www.credly.com/badges/4b690432-b918-4182-894f-3cde9e4b2f29/public_url" title="AWS Certified Machine Learning Engineer – Associate Early Adopter" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" alt="AWS ML Engineer Early Adopter" />
+  </a>
+
+  <!-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) -->
+  <div style="text-align: center; max-width: 150px;">
+    <a href="https://learn.microsoft.com/en-us/users/bastithurm-3140/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank" title="Microsoft Certified: Power BI Data Analyst Associate (PL‑300)">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Power BI Certification Badge" width="150" height="150" style="display: block; margin: 0 auto;" />
+    </a>
+    <p style="font-weight: bold; font-size: 14px; margin: 6px 0 2px;">Microsoft Certified: Power BI Data Analyst Associate (PL‑300)</p>
+    <p style="font-size: 12px; color: #666; margin: 0;">Badge ID: <code>788ECA7F975896F8</code> • Number: <code>461U5C‑D943CA</code></p>
+  </div>
 
 </div>
+
 ---
 
 ## 🌱 What I'm Currently Building & Exploring
