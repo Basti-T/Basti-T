@@ -59,7 +59,8 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 ### AWS Certifications
 
-[![AWS Certified Machine Learning – Associate](https://images.credly.com/size/340x340/images/fa250918-f401-46c6-8a41-d381cadc0ca4/image.png)](https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url)  
+[![AWS Certified Machine Learning – Associate](https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url)  
+**AWS Certified Machine Learning – Associate**
 **AWS Certified Machine Learning – Associate**
 
 [![AWS Certified AI Practitioner](https://images.credly.com/size/340x340/images/32947173-ae59-44cb-a082-f3dcbd9d03fc/image.png)](https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url)  
