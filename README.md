@@ -59,15 +59,29 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 ### AWS Certifications
 
-[![AWS Certified Machine Learning – Associate](https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url)  
-**AWS Certified Machine Learning – Associate**
-**AWS Certified Machine Learning – Associate**
+<div align="center">
 
-[![AWS Certified AI Practitioner](https://images.credly.com/size/340x340/images/32947173-ae59-44cb-a082-f3dcbd9d03fc/image.png)](https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url)  
-**AWS Certified AI Practitioner**
+<a href="https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url" title="AWS Certified Machine Learning – Associate" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Machine Learning – Associate" />
+</a>
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/db15a37f-befa-41db-899f-33978c2b5152/image.png)](https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url)  
-**AWS Certified Cloud Practitioner**
+<a href="https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url" title="AWS Certified AI Practitioner" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI Practitioner" />
+</a>
+
+<a href="https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" />
+</a>
+
+<a href="https://www.credly.com/badges/your-url-for-ai-practitioner-early-adopter" title="AWS Certified AI Practitioner Early Adopter" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AI Practitioner Early Adopter" />
+</a>
+
+<a href="https://www.credly.com/badges/your-url-for-ml-engineer-early-adopter" title="AWS Certified Machine Learning Engineer – Associate Early Adopter" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" alt="ML Engineer Early Adopter" />
+</a>
+
+</div>
 
 ---
 
