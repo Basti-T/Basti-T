@@ -55,12 +55,27 @@ My hands-on experience and professional certifications reflect my dedication to 
 </div>
 
 
-### **Certifications:**
+## 📜 Certifications
 
-* **AWS Certified Machine Learning - Associate:** (https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url)]
-* **AWS Certified AI Practitioner:** (https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url)
-* **AWS Certified Cloud Practitioner:** (https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url)
-* **Microsoft Certified: Power BI Data Analyst Associate (PL-300):** ID: 788ECA7F975896F8 Number: 461U5C-D943CA
+### AWS Certifications
+
+[![AWS Certified Machine Learning – Associate](https://images.credly.com/size/340x340/images/fa250918-f401-46c6-8a41-d381cadc0ca4/image.png)](https://www.credly.com/badges/fa250918-f401-46c6-8a41-d381cadc0ca4/public_url)  
+**AWS Certified Machine Learning – Associate**
+
+[![AWS Certified AI Practitioner](https://images.credly.com/size/340x340/images/32947173-ae59-44cb-a082-f3dcbd9d03fc/image.png)](https://www.credly.com/badges/32947173-ae59-44cb-a082-f3dcbd9d03fc/public_url)  
+**AWS Certified AI Practitioner**
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/db15a37f-befa-41db-899f-33978c2b5152/image.png)](https://www.credly.com/badges/db15a37f-befa-41db-899f-33978c2b5152/public_url)  
+**AWS Certified Cloud Practitioner**
+
+---
+
+### Microsoft Certification
+
+[![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/340x340/images/788ECA7F-9758-96F8-461U5C-D943CA.png)](https://www.credly.com/badges/788ECA7F975896F8/public_url)  
+**Microsoft Certified: Power BI Data Analyst Associate (PL‑300)**  
+Badge ID: `788ECA7F975896F8` • Number: `461U5C‑D943CA`
+
 ---
 
 ## 🌱 What I'm Currently Building & Exploring
