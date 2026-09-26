@@ -56,7 +56,7 @@ As an **AWS Certified ML Engineer**, I build production-grade, scalable cloud an
   <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" /></a>
 </div>
 
-* **Core Competencies:** MLOps, Distributed Systems, Predictive Modeling, Cloud Infrastructure, Autonomous Systems Architecture, AI Agent Benchmarking (Terminal Bench / LILT), CI/CD, Lean Six Sigma.
+* **Core Competencies:** MLOps, Distributed Systems, Predictive Modeling, Cloud Infrastructure, Autonomous Systems Architecture, AI Agent Benchmarking (**Terminal Bench**), Language Technologies (**LILT**), CI/CD, Lean Six Sigma.
 
 ---
 
@@ -92,7 +92,7 @@ Validated expertise across cloud computing, machine learning engineering, artifi
 ## 🔬 Current Engineering Focus & R&D Work
 
 * **Enterprise MLOps & Scalable Cloud Pipelines:** Designing automated, containerized infrastructure and prescriptive analytics engines leveraging AWS SageMaker, Bedrock, Docker, and Kubernetes.
-* **AI Agent Evaluation & Benchmarking (Terminal Bench / LILT):** Implementing and assessing LLM/Agent performance using rigorous CLI-driven environments (Terminal Bench) and language intelligence workflows (LILT) to guarantee production reliability.
+* **AI Agent Benchmarking & Language Integration (Terminal Bench & LILT):** Rigorous evaluation of agentic LLM workflows using **Terminal Bench** for command-line execution and **LILT** for advanced language intelligence and localization data pipelines.
 * **Autonomous Mobility & Physical-Digital Systems:** Developing Python-based data pipelines, telemetry parsing tools, and analytical models tailored for high-stakes autonomous vehicle operations.
 
 ---
