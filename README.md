@@ -98,8 +98,9 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 My focus is on creating practical, end-to-end ML solutions and sharing my learning journey:
 
-* **Python & Real-World Projects:** Developing a new YouTube playlist showcasing hands-on projects in AWS SageMaker and Jupyter Notebooks, covering everything from data preparation to model deployment.
-* **MLOps Best Practices:** Deepening my expertise in operationalizing machine learning models for scalable and reliable production environments.
+* **Enterprise ML & MLOps (`ml-business-portfolio`):** Architecting robust, scalable cloud infrastructure and prescriptive analytics engines on AWS.
+* **Autonomous Driving & Robotics (`ml-autonomous-driving`):** Experimenting with Python-based perception, control systems, and algorithmic depth.
+* **MLOps Best Practices:** Deepening my expertise in operationalizing machine learning models for reliable production environments.
 * **Advanced NLP & Generative AI:** Actively experimenting with cutting-edge models and techniques in Natural Language Processing.
 
 ---
@@ -113,7 +114,7 @@ I believe in democratizing knowledge. My YouTube channel serves as a platform to
 * **Cloud Computing for Beginners:** Demystifying core AWS services like S3, IAM, VPC, EC2, and CloudFormation.
 * **Upcoming:** Dedicated series on Python for ML & Real-World SageMaker Projects!
 
-🔗 **Visit my channel here:** (https://www.youtube.com/@ai_ml_and_data_decoded)
+🔗 **Visit my channel here:** [https://www.youtube.com/@ai_ml_and_data_decoded](https://www.youtube.com/@ai_ml_and_data_decoded)
 
 ---
 
@@ -121,12 +122,12 @@ I believe in democratizing knowledge. My YouTube channel serves as a platform to
 
 <div align="center" style="display: flex; gap: 30px; flex-wrap: nowrap; justify-content: center; padding: 20px 0; overflow-x: auto;">
 
-  <!-- Playlist 1 (with second playlist's thumbnail) -->
+  <!-- Playlist 1 -->
   <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPLGBfXwSCYaC3_6ItI6D-iW" target="_blank" title="Playlist 1">
     <img src="https://i.ytimg.com/vi/Vp9-8fDPzJw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoIj0iIEuC0jL0Tpn8h1ebIGZJlA" alt="Playlist 1 Thumbnail" width="180" style="border-radius:8px;" />
   </a>
 
-  <!-- Playlist 2 (with first playlist's thumbnail) -->
+  <!-- Playlist 2 -->
   <a href="https://www.youtube.com/playlist?list=PL-UV_H51jBPL6zwRl-xP3qY94lw0zKhy7" target="_blank" title="Playlist 2">
     <img src="https://i.ytimg.com/vi/wxz3-U_ILWE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCERAPwJ8tyBZwbSazHa4PxaQek4Q" alt="Playlist 2 Thumbnail" width="180" style="border-radius:8px;" />
   </a>
