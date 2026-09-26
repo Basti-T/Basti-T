@@ -1,14 +1,16 @@
 # 👋 Hello there, I'm Sebastian Thurm!
 
-**Ex-Operations Leader to AI/ML Engineer | AWS Certified | Building & Deploying Solutions with SageMaker & Python | YouTube Educator 🚀**
+**Operations Manager Autonomous Driving | Lead Data, AI & ML | Ex-Amazon Senior Leader | AWS Certified ML Engineer | Process Excellence & Lean Six Sigma | AI-Driven Operations | MLOps | Scaling ROI 🚀**
 
-Welcome to my GitHub profile! I'm passionate about leveraging data and machine learning to solve real-world problems. My unique journey, transitioning from operations leadership, has equipped me with a practical, results-driven mindset invaluable in the AI/ML space. I thrive on "decoding" complex technical concepts and turning them into accessible knowledge and practical applications.
+Welcome to my GitHub profile! I build and scale the operational engines that drive tech-enabled business growth. With 15+ years of experience evolving from warehouse floors to leading high-stakes operations, AI strategy, and autonomous driving mobility, I bridge the gap between physical execution, advanced technical architecture, and executive strategy. 
+
+I thrive on turning complex machine learning, MLOps, and data architectures into predictable, high-impact business outcomes.
 
 ---
 
-## 🛠️ My Toolbox & Certifications
+## 🛠️ My Toolbox & Professional Certifications
 
-My hands-on experience and professional certifications reflect my dedication to building robust and scalable AI/ML solutions.
+My hands-on engineering background combined with enterprise-grade certifications reflect my dedication to building robust, scalable, and safe AI/ML solutions.
 
 ---
 
@@ -94,25 +96,31 @@ My hands-on experience and professional certifications reflect my dedication to 
 
 ---
 
+## 🏗️ Core Competencies & Leadership Highlights
+
+* **Autonomous Mobility & Fleet Operations:** Steering daily operations, depot workflow mapping, hazard mitigation, and strict safety/EHS compliance for autonomous vehicle fleets.
+* **Enterprise Operations Leadership:** 15+ years directing large-scale operations and cross-functional teams of 150+ personnel (including Amazon Tier-1 site launch BER3), consistently driving 10%+ YoY productivity gains.
+* **Technical & MLOps Architecture:** AWS Certified ML Engineer specializing in production-grade pipelines utilizing AWS SageMaker, AWS Bedrock, Python, SQL, and PostgreSQL.
+* **Data-Driven ROI & Process Excellence:** Leveraging predictive analytics, machine learning, and Lean Six Sigma to cut labor overhead by 12%, reduce vendor costs by 15%, and increase inventory hit rates by 150%.
+
+---
+
 ## 🌱 What I'm Currently Building & Exploring
 
-My focus is on creating practical, end-to-end ML solutions and sharing my learning journey:
-
 * **Enterprise ML & MLOps (`ml-business-portfolio`):** Architecting robust, scalable cloud infrastructure and prescriptive analytics engines on AWS.
-* **Autonomous Driving & Robotics (`ml-autonomous-driving`):** Experimenting with Python-based perception, control systems, and algorithmic depth.
-* **MLOps Best Practices:** Deepening my expertise in operationalizing machine learning models for reliable production environments.
-* **Advanced NLP & Generative AI:** Actively experimenting with cutting-edge models and techniques in Natural Language Processing.
+* **Autonomous Driving & Robotics (`ml-autonomous-driving`):** Experimenting with Python-based perception, control systems, and algorithmic depth for autonomous systems.
+* **AI System Governance & Engineering Standards:** Developing strict pre-code markdown governance guardrails to accelerate development velocity and minimize PR failure rates.
 
 ---
 
 ## 📚 My YouTube Channel: Knowledge Decoded!
 
-I believe in democratizing knowledge. My YouTube channel serves as a platform to share step-by-step tutorials on the technologies I master:
+I believe in democratizing knowledge. My YouTube channel serves as a platform to share step-by-step tutorials bridging complex technical infrastructure with practical execution:
 
 * **PostgreSQL for Beginners to Advanced:** Comprehensive guide to database management.
-* **AWS AI Services Explained:** Practical tutorials on AWS Bedrock and other pre-built AI services.
+* **AWS AI Services Explained:** Practical tutorials on AWS Bedrock, Comprehend, Translate, and other pre-built AI services.
 * **Cloud Computing for Beginners:** Demystifying core AWS services like S3, IAM, VPC, EC2, and CloudFormation.
-* **Upcoming:** Dedicated series on Python for ML & Real-World SageMaker Projects!
+* **Upcoming:** Dedicated series on Python for ML, Real-World SageMaker Projects & Autonomous Systems!
 
 🔗 **Visit my channel here:** [https://www.youtube.com/@ai_ml_and_data_decoded](https://www.youtube.com/@ai_ml_and_data_decoded)
 
